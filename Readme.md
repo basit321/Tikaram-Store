@@ -1,9 +1,3 @@
-# NativeBase Expo Template
+# The Tikaram Stores app 
+This app is for the seller 
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
-
-## Usage
-
-```sh
-expo init my-app --template @native-base/expo-template
-```
